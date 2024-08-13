@@ -33,10 +33,19 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/DavidFayemi/Huddle-landing-page-with-alternating-feature-blocks)
+- Live Site URL: [Github Pages](https://davidfayemi.github.io/Huddle-landing-page-with-alternating-feature-blocks/)
 
 ## My process
+
+- Update the .gitignore to remove the design folder
+- Arranged My Project Folder
+- Downloaded Fonts and added them to the Fots folder in assets
+- Started with structuring the HTML
+- Added Classes using CSS BEM naming standard
+- Styled The Mobile design
+- Styled the Tablet Design
+- Styled The Desktop Design
 
 ### Built with
 
@@ -46,13 +55,11 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - CSS BEM
-  **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+- I understood the CSS BEM a lot better
+- I've gotten very confortable with using CSS grid
 
 ```html
 <section class="sectionA">
