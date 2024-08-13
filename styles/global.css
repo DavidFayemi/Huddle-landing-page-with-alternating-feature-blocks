@@ -1,0 +1,51 @@
+/* FONTS */
+
+/* Poppins */
+
+/* Poppins Semibold */
+@font-face {
+  font-family: Poppins;
+  src: url("./../assets/Fonts/Poppins-SemiBold.ttf");
+  font-weight: 600;
+}
+
+/* Open Sans */
+
+/* Open Sans Regular */
+@font-face {
+  font-family: Open sans;
+  src: url("./../assets/Fonts/OpenSans-Regular.ttf");
+  font-weight: 400;
+}
+/* Open Sans Bold */
+@font-face {
+  font-family: Open sans;
+  src: url("./../assets/Fonts/OpenSans-Bold.ttf");
+  font-weight: 700;
+}
+/* Global Styles */
+* {
+  box-sizing: border-box;
+  max-width: 100vw;
+  padding: 0;
+  margin: 0;
+  font-family: Open sans;
+  font-weight: 400;
+  font-size: 18px;
+}
+header,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Poppins;
+  font-weight: 600;
+}
+button {
+  font-size: 0.8em;
+}
+ul {
+  list-style-type: none;
+}
